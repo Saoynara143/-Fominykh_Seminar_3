@@ -28,6 +28,6 @@
 
   https://learn.microsoft.com
 
-  ** - ****
+  *\*\*\*bold and italic**** - **Чтобы задать для текста полужирное и курсивное начертание**
 
-  ** - ****
+  ***bold and italic***
