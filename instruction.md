@@ -31,3 +31,19 @@
   *\*\*\*bold and italic**** - **Чтобы задать для текста полужирное и курсивное начертание**
 
   ***bold and italic***
+
+  ## Команды для ветвления
+
+  *git branch* - **вывести список всех веток на экран**
+
+  *git branch <branch_name>* - **создание новой ветки**
+
+  *git checkout <branch_name>* - **переход на другую ветку**
+
+  *git checkout -b <branch_name>* - **переход на только что созданную ветку**
+
+  *git merge <branch_name>* - **слияние веток между собой**
+
+  *git branch -d <branch_name>* - **удаление ветки**
+
+  *git branch -m <new_branch_name>* - **переименование ветки**
