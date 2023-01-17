@@ -46,4 +46,4 @@
 
   *git branch -d <branch_name>* - **удаление ветки**
 
-  *git branch -m <new_branch_name>* - **переименование ветки**
+  *git log --graph* - **позволяет отобразить коммиты в виде дерева**
